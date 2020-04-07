@@ -1,4 +1,4 @@
-常用的DOS命令： （windows下的cmd，只支持英文）
+常用的DOS命令： （windows下的cmd，只支持英文）DOS(Disk Operating System)
   dir:列出当前目录下的文件以及文件夹  (该处的:不为DOS命令的一部分)
   md:创建目录
   rd:删除目录
@@ -28,4 +28,14 @@
   /**
   *
   */ 文档注释
+
+1 Byte(字节) = 8 bit（位） 
+1KB = 1024Byte
+1MG = 1024KB
+GB
+TB
+path的设置就是为了给java一个地址去寻找需要的东西（这样有事可以省略路径的填写）
+
+通过javac 把字节码文件（源文件）变成class文件
+每次都需要运行javac 重新编译class文件才能完成修改
 
