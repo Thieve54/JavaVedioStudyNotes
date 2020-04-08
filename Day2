@@ -5,3 +5,32 @@ Ex:
   System.out.println(str2 +20); // Java20 
   sys
   
+Java 中可以直接使用！表示 not true 
+EX: !true
+======
+一元运算：需要一个数据就可以进行操作的运算符。例如：！；++；—
+Same for  二元与三元
+
+？ ： int max = a>b? a:b;  if true a back to result ; not true, b back to result
+
+方法不能包含另外一个方法；
+如果要在main函数中使用 另一个函数（方法）：方法名称（) ——— cooker()
+
+Jshell 可以直接使用的command 只负责一些轻量的运算
+
+short a = 5;
+short b =8;
+short a+b 不行 两个short会自动升到int再进行计算
+========
+Integrated Development Enviroment, IDE, 集成开发环境
+
+Project -----> modules---->package
+
+package的名字可以用.来分层使用
+
+public class demo{} 这个包含的范围是整个的程序，这个应用就像是c中的 int main(){}的用法一样的
+方法定义注意事项：
+  1.定义的先后是没所谓的，没有先后之分
+  2.方法的定义之中
+
+Integrated Development Enviroment, IDE, 集成开发环境
