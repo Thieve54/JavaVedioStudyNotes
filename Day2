@@ -1,0 +1,7 @@
+对于字符串来说 加法运算代表的是字符串的连接操作
+String + int = String 
+Ex:
+  String str2 = "Java";
+  System.out.println(str2 +20); // Java20 
+  sys
+  
